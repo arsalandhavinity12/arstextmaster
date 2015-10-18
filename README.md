@@ -1,2 +1,2 @@
 # arstextmaster
-it just a simple script
+baru mulai heheh maklum aja klo masih ada beberapa bugs :D
