@@ -1,0 +1,59 @@
+#################################################
+ _           _              _        _ 
+(_)_ __  ___| |_ _ __ _   _| | _____(_)
+| | '_ \/ __| __| '__| | | | |/ / __| |
+| | | | \__ \ |_| |  | |_| |   <\__ \ |
+|_|_| |_|___/\__|_|   \__,_|_|\_\___/_|
+                      _             
+  __ _ _ __ ___  __ _| | __ _ _ __  
+ / _` | '__/ __|/ _` | |/ _` | '_ \ 
+| (_| | |  \__ \ (_| | | (_| | | | |
+ \__,_|_|  |___/\__,_|_|\__,_|_| |_|
+                                    
+                                       
+#################################################
+# 	SAT OCT 17 2015 21:34:50		#
+###########################################################
+#							   #
+#for LINUX AND OTHER UNIX LIKE and windows series	   #
+#attention ! , 						   #
+#for windows you must using your cmd and download qt5 first#
+############################################################
+pergi ke directory dimana lu download source code buatan gw
+{example}
+
+"cd /programing/QT/arstextmaster/atm/arstextmaster"
+
+after thet compile it :
+{type it}
+
+"make"
+
+and launch it by using this command
+{launch}
+
+"./arsalan"
+
+kalo lu mau ke install disystem lu langsung tinggal gunakan perintah ini
+
+"sudo cp arsalan /usr/sbin"
+
+and
+
+"cd"
+
+again
+
+"cd /usr/sbin"
+
+and you must set premission
+
+"sudo chmod 755 arsalan"
+now you can type "arsalan" on your terminal and my program will be launching
+
+it works fine on LINUX and MAC OS
+tested on slackware,archlinux, OSX YOSEMITE
+thank for downloading and you can give me a saran ke 
+
+"http://www.facebook.com/blackman404"
+
